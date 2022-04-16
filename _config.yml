@@ -23,7 +23,7 @@ email: marco.castangia@polito.it
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio site in jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: " https://marco-castangia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marco-castangia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: marco-castangia/marco-castangia.github.io
 #twitter_username: jekyllrb
 #github_username:  marco-castangia
